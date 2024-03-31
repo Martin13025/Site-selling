@@ -1,0 +1,15 @@
+.UserBox {
+    width: 300px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.UserBox button{
+    width: 120px;
+    height: 30px;
+    border-radius: 100px;
+}
+.UserBox button:hover {
+    background-color: #6ebcff;
+}

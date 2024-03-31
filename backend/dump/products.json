@@ -1,0 +1,137 @@
+[
+    {
+        "_id": {
+          "$oid": "65a6d14f7e376a56ff8546bd"
+        },
+        "header": "Monitor",
+        "price": {
+          "$numberLong": "500"
+        },
+        "image": "/image/tovar.jpg"
+      },
+        
+      {
+          "_id": {
+            "$oid": "65a71c5e7e376a56ff8546c3"
+          },
+          "header": "Computer",
+          "price": {
+            "$numberLong": "1020"
+          },
+          "image": "/image/comp.jpeg"
+      },
+
+      {
+          "_id": {
+            "$oid": "65a71d147e376a56ff8546c4"
+          },
+          "header": "Keyboard",
+          "price": {
+            "$numberLong": "120"
+          },
+          "image": ""
+      },
+
+      {
+          "_id": {
+            "$oid": "65a71d6a7e376a56ff8546c5"
+          },
+          "header": "Microfone",
+          "price": {
+            "$numberLong": "634"
+          },
+          "image": ""
+      },
+
+      {
+          "_id": {
+            "$oid": "65a71e007e376a56ff8546c6"
+          },
+          "header": "Office chair",
+          "price": {
+            "$numberLong": "532"
+          },
+          "image": ""
+      },
+
+      {
+          "_id": {
+            "$oid": "65a71e727e376a56ff8546c7"
+          },
+          "header": "Web-camera",
+          "price": {
+            "$numberLong": "927"
+          },
+          "image": ""
+      },
+
+      {
+        "_id": {
+          "$oid": "65a71ea07e376a56ff8546c8"
+        },
+        "header": "Computer table",
+        "price": {
+          "$numberLong": "1600"
+        },
+        "image": ""
+      },
+
+      {
+        "_id": {
+          "$oid": "65a71eee7e376a56ff8546c9"
+        },
+        "header": "Computer mouse",
+        "price": {
+          "$numberLong": "600"
+        },
+        "image": ""
+      },
+
+      {
+        "_id": {
+          "$oid": "65a71f2f7e376a56ff8546ca"
+        },
+        "header": "Table lamp",
+        "price": {
+          "$numberLong": "300"
+        },
+        "image": ""
+      },
+
+      {
+        "_id": {
+          "$oid": "65a71f667e376a56ff8546cb"
+        },
+        "header": "Power bank",
+        "price": {
+          "$numberLong": "350"
+        },
+        "image": ""
+      },
+
+      {
+        "_id": {
+          "$oid": "65a71fa37e376a56ff8546cc"
+        },
+        "header": "Cabel HDMI",
+        "price": {
+          "$numberLong": "50"
+        },
+        "image": ""
+      },
+
+      {
+        "_id": {
+          "$oid": "65a71fcf7e376a56ff8546ce"
+        },
+        "header": "Smart lighting",
+        "price": {
+          "$numberLong": "120"
+        },
+        "image": ""
+      }
+]
+
+
+
+
